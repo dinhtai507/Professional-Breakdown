@@ -1,4 +1,3 @@
-# Professional-Breakdown
 # Data Professional Breakdown Survey
 
 ![image](https://github.com/dinhtai507/Professional-Breakdown/assets/101158366/eaea7372-87d4-483c-8311-d326a391a33f)
